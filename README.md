@@ -1,4 +1,4 @@
-AI-Assignment2-Webot
+AI-Assignment2-Webots
 
 Webots is an open source and multi-platform desktop application used to simulate robots. It provides a complete development environment to model, program and simulate robots.
 
